@@ -35,7 +35,7 @@ See `/docs/Wonka_Candy_Sales_Performance_Analysis.pdf` for the full write‑up w
 
 ---
 
-## Repro / How to use the SQL
+## How to use the SQL
 
 1. Load the Maven datasets into a Postgres database (table names used below: `wonka_sales`, `division_targets`, `product_pricing`).
 2. Run any query from `/sql` directly. Each file includes comments and matches a dashboard section.
