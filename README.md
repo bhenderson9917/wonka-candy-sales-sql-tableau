@@ -62,6 +62,7 @@ See `/docs/Wonka_Candy_Sales_Performance_Analysis.pdf` for the full write‑up w
 
 ## Highlights
 
+- Executive summary (Section 0) 
 - Division target tracking and variance analysis (Section 1)
 - Seasonality patterns by product (Section 2)
 - Regional product performance and concentration risk (Section 3)
